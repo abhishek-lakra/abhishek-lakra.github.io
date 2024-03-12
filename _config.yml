@@ -1,12 +1,12 @@
 # Site settings
-title: Abhishek Lakra
-email: abhisheklakra56@gmail.com
+title: "Abhishek Lakra"
+email: "abhisheklakra56@gmail.com"
 description: "I'm a DevOps Engineer from India. Seamlessly manages projects and servers for company."> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # twitter_username:
-github_username: abhishek-lakra
+github_username: "abhishek-lakra"
 
 # Build settings
 markdown: kramdown
